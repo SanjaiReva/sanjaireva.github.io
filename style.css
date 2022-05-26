@@ -8,6 +8,11 @@ a{
   margin: 25px 50px;
 
 }
+.navi{
+  display:grid;
+  gap:50px;  
+
+}
 
 a:link, a:visited {
   background-color: white;
