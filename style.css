@@ -5,13 +5,13 @@
 }
 a{
   text-decoration: none;
-  margin: 25px 50px;
-
+ 
 }
 .navi{
   display:grid;
-  grid-template-columns: auto auto auto auto;
-  gap:50px;  
+  grid-template-columns: auto auto auto auto auto;
+  gap:3px;
+
 
 }
 
